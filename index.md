@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Bienvenido, aqui encontraras cosas relacionadas con counter-strike2. Pincha aqui para ir a la web oficial  <a href="https://www.counter-strike.net/">aqui</a>.
+  Bienvenidos, aqui encontraras cosas relacionadas con counter-strike2. Pincha aqui para ir a la web oficial  <a href="https://www.counter-strike.net/">aqui</a>.
 </p>
 
 <p>
