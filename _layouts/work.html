@@ -11,20 +11,18 @@
           <h1 class="page-heading">{{ page.title }}</h1>
           {{ content }}
 
-          {% for item in page.items %}
-          <div class="work-item">
-            <img
-              src="{{ item.image.src | absolute_url }}"
-              alt="{{ item.image.alt }}"
-              class="work-bubble"
-            />
-            <span class="work-text">
-              <strong>{{ item.title }}</strong>
-              &mdash;
-              {{ item.description }}
-            </span>
-          </div>
-          {% endfor %}
+
+            {% for skin in site.data.skins.skins %}
+              <h2>{{ skin.name }}</h2>
+              <p><strong>Arma:</strong> {{ skin.weapon }}</p>
+              <p><strong>Precio:</strong> ${{ skin.price }}</p>
+              <p><strong>Rareza:</strong> {{ skin.rarity }}</p>
+              <p><strong>Descripción:</strong> {{ skin.description }}</p>
+              <p><img src="{{ skin.image }}" alt="{{ skin.name }}" style="max-width: 100px;"></p>
+              <hr>
+            {% endfor %}
+
+    
         </div>
       </div>
     </div>

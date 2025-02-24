@@ -1,14 +1,14 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/img2.jpg
   alt: website picture
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Bienvenido, aqui encontraras cosas relacionadas con counter-strike2. Pincha aqui para ir a la web oficial  <a href="https://www.counter-strike.net/">aqui</a>.
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  Puedes encontrar mas sobre como esta hecha esta pagina aqui <a href="https://github.com/ksan240/ksan240.github.io.git">GitHub</a>.
 </p>

@@ -1,55 +1,50 @@
 ---
 layout: post
-title: "Post example"
-date: 2019-10-26 10:00:40
-blurb: "A look at an example post using Bay Jekyll theme."
-og_image: /assets/img/content/post-example/Banner.jpg
+title: "CS2: M4A1-S vs. M4A4 - ¿Cuál elegir?"
+date: 2025-02-24 10:00:40
+blurb: "Analizamos las diferencias entre la M4A1-S y la M4A4 en Counter-Strike 2."
+og_image: /assets/img/content/cs2-m4/banner.jpg
 ---
+## ![M4A1-S vs M4A4]("{{ "/assets/img/content/cs2-m4/banner.jpg" | absolute_url }}")
 
-<img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
-<br />
-<br />
+La elección entre la M4A1-S y la M4A4 es una de las decisiones más importantes para los jugadores del lado CT en Counter-Strike 2. En este artículo, compararemos ambas armas en términos de precisión, daño y utilidad.
 
-This is an example of blog post.
-Picture by [Bethany Legg](https://unsplash.com/@bkotynski).
+# 📌 Tabla de Contenidos
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum[^1].
+# 🔍 Diferencias clave
 
-<br />
+# 📊 Estadísticas de las armas
 
+# 🎯 Precisión y control
 
-#### Table of Contents
-1. [Part 1](#part-1)
-2. [Part 2](#part-2)
-    * [Part 2 Sub-part 1](#part-2-sub-part-1)
-    * [Part 2 Sub-part 2](#part-2-sub-part-2)
-3. [Footnotes](#footnotes)
+# ⚡ Cadencia y daño
 
-#### PART 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-<br />
+# 🤔 ¿Cuál deberías usar?
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# 📌 Notas finales
 
-<br />
-<br />
+# 🔍 Diferencias clave
 
-#### PART 2
-**Lorem ipsum dolor sit amet,** consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+La M4A1-S y la M4A4 tienen ventajas y desventajas que dependen del estilo de juego. Mientras que la M4A1-S destaca por su precisión y silenciador, la M4A4 ofrece una mayor cadencia de fuego y un cargador más grande.
 
-<br />
+# 📊 Estadísticas de las armas
 
-##### PART 2 SUB PART 1
-*Duis aute irure dolor in reprehenderit* in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Aquí desglosamos las características principales de ambas rifles.
 
-<br />
+# 🎯 Precisión y control
 
-##### PART 2 SUB PART 2
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+✔️ M4A1-S: Menos retroceso y mayor precisión.❌ M4A4: Mayor dispersión de balas pero mejor para enfrentamientos múltiples.
 
-<br />
+# ⚡ Cadencia y daño
 
+✔️ M4A1-S: 25 balas por cargador, menor ruido y mejor control.❌ M4A4: 30 balas por cargador, mayor velocidad de disparo.
 
-##### FOOTNOTES
+# 🤔 ¿Cuál deberías usar?
 
-[^1]: This is a note!
+✅ Si prefieres jugar de forma táctica y con disparos precisos, la M4A1-S es la mejor opción.✅ Si priorizas la agresividad y la capacidad de enfrentarte a varios enemigos, la M4A4 es la elección correcta.
+
+# 📌 Notas finales
+
+La elección entre la M4A1-S y la M4A4 depende del estilo de juego y las preferencias personales. Ambas tienen su lugar en Counter-Strike 2, así que experimenta con ambas y encuentra la que mejor se adapte a ti.
+
+📝 Footnotes

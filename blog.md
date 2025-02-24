@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: Blog
+title: Blog sobre curiosidades o skins del CS2
 slug: /blog
 ---
 
-This is an example of a "Blog" page, displaying a list of posts.
+Aqui subire blogs cuando haya novdades en las armas del cs
 <br />

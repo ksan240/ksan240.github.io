@@ -1,0 +1,53 @@
+{
+    "skins": [
+      {
+        "name": "Redline",
+        "weapon": "AK-47",
+        "price": 15,
+        "rarity": "Mil-Spec",
+        "description": "A well-worn AK-47 with a red and black design.",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_cobra_light_large.7494bfdf4855fd4e6a2dbd983ed0a243c80ef830.png"
+      },
+      {
+        "name": "Asiimov",
+        "weapon": "AWP",
+        "price": 40,
+        "rarity": "Covert",
+        "description": "Futuristic orange and white skin with a high-tech feel.",
+        "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJD_9W7m5a0mvLwOq7c2DMBupQn2eqVotqkiwHiqhdlMmigJtOWJwE5Zw3X8wS-yea8jcDo7c7XiSw0g89L9us/360fx360f"
+      },
+      {
+        "name": "The Empress",
+        "weapon": "M4A4",
+        "price": 25,
+        "rarity": "Classified",
+        "description": "A regal, dark theme with intricate detailing.",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_gs_m4a4_emperor_light_large.61be48559b0a5d57e04108f876f5cf755ec8acc8.png"
+      },
+      {
+        "name": "Desert Hydra",
+        "weapon": "Desert Eagle",
+        "price": 12,
+        "rarity": "Restricted",
+        "description": "A majestic desert-themed Desert Eagle.",
+        "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PTbTjlH7du6kb-Nkvn6NrjummJW4NFOhujT8om70QawqRc9ZGqmcNXGdFNsZ1jS-Ae_l-7tgZ7v7pzAyXRg7icj5XiMzgv3308Gn6NOEA"
+      },
+      {
+        "name": "Printstream",
+        "weapon": "USP-S",
+        "price": 8,
+        "rarity": "Mil-Spec",
+        "description": "A sleek and minimalistic skin for the USP-S.",
+        "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jkIbLfgnhF-sBwh9bM8Ij8nVn6qRZuZGr1ctDBdw9vYF3V_FO6yee50cfv7sjMz3Jj7HIr7C2Ilx3i1AYMMLId9XKCBQ/360fx360f"
+      },
+      {
+        "name": "Violet Morph",
+        "weapon": "P90",
+        "price": 18,
+        "rarity": "Restricted",
+        "description": "A sharp, purple and black design with unique accents.",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FABz7OORIQJM6dOngYWOmcj5Nr_Yg2Yfv8En3uuTo9-mjgXi8kE5MjjwddeVIABrM1vZqFjrx7vm1MTtv53ByWwj5HdFBIoKZQ/360fx360f"
+      }
+    ]
+  }
+  
